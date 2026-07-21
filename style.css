@@ -8,7 +8,7 @@ body:before {
   width: 100%;
   height: 100vh;
   background-color: #fff;
-  background-image: url('img/kyoseikan.jpg');
+  background-image: url('assets/images/kyoseikan.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
